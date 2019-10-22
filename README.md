@@ -2,10 +2,10 @@
 Simple Note Application to add ,remove ,list and read notes added by user with the help of Node JS
 
 ## What does this app do?
-adds a new note along with title and it's body,throws error if duplicate note is being added
-removes existing note with title and throws error if note is not found with given title
-lists all the title of the notes added in notes.json 
-read : display the body of the note based on the title 
+- adds a new note along with title and it's body,throws error if duplicate note is being added-
+- removes existing note with title and throws error if note is not found with given title
+- lists all the title of the notes added in notes.json 
+- read : display the body of the note based on the title 
 
 ## How does it work?
 based on the command given from command line parameter the functions like add , remove ,list and read note will be perfromed.
