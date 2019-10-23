@@ -8,8 +8,8 @@ Simple Note Application to add ,remove ,list and read notes added by user with t
 - read : display the body of the note based on the title 
 
 ## How does it work?
-based on the command given from command line parameter the functions like add , remove ,list and read note will be perfromed.
-npm modules used : yargs, chalk, fs  
+- based on the command given from command line parameter the functions like add , remove ,list and read note will be perfromed.
+- npm modules used : yargs, chalk, fs  
 
 ## Use following commands to add , remove , list or read the notes
 1. Add : node app.js add --title="<titleName>" --body="<body of the Note>"
